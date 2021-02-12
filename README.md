@@ -1,2 +1,4 @@
-# starting-ml
-Estudos de Machine Learning tanto na graduação quanto para cursos pessoais.
+# starting-machine-learning
+
+## FATEC
+Conteúdos da disciplina de Machine Learning estaram na pasta fatec.
